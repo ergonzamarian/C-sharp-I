@@ -1,2 +1,5 @@
-# csharp_I
-Projeto em Desenvolvimnto :: C# Explorando a linguagem
+# C-sharp-I
+
+> Status do Projeto : Projeto em Desenvolvimnto
+
+C# Explorando a linguagem
