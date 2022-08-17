@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Ergon\Estudos\C-sharp-I\1-OlaMundo\2-CriandoVariaveis\bin\Debug\net6.0\2-CriandoVariaveis.exe
+C:\Users\admin\Desktop\Ergon\Estudos\C-sharp-I\1-OlaMundo\2-CriandoVariaveis\bin\Debug\net6.0\2-CriandoVariaveis.deps.json
+C:\Users\admin\Desktop\Ergon\Estudos\C-sharp-I\1-OlaMundo\2-CriandoVariaveis\bin\Debug\net6.0\2-CriandoVariaveis.runtimeconfig.json
+C:\Users\admin\Desktop\Ergon\Estudos\C-sharp-I\1-OlaMundo\2-CriandoVariaveis\bin\Debug\net6.0\2-CriandoVariaveis.dll
+C:\Users\admin\Desktop\Ergon\Estudos\C-sharp-I\1-OlaMundo\2-CriandoVariaveis\bin\Debug\net6.0\2-CriandoVariaveis.pdb
+C:\Users\admin\Desktop\Ergon\Estudos\C-sharp-I\1-OlaMundo\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Ergon\Estudos\C-sharp-I\1-OlaMundo\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Ergon\Estudos\C-sharp-I\1-OlaMundo\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Ergon\Estudos\C-sharp-I\1-OlaMundo\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.AssemblyInfo.cs
+C:\Users\admin\Desktop\Ergon\Estudos\C-sharp-I\1-OlaMundo\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Ergon\Estudos\C-sharp-I\1-OlaMundo\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.dll
+C:\Users\admin\Desktop\Ergon\Estudos\C-sharp-I\1-OlaMundo\2-CriandoVariaveis\obj\Debug\net6.0\refint\2-CriandoVariaveis.dll
+C:\Users\admin\Desktop\Ergon\Estudos\C-sharp-I\1-OlaMundo\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.pdb
+C:\Users\admin\Desktop\Ergon\Estudos\C-sharp-I\1-OlaMundo\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.genruntimeconfig.cache
+C:\Users\admin\Desktop\Ergon\Estudos\C-sharp-I\1-OlaMundo\2-CriandoVariaveis\obj\Debug\net6.0\ref\2-CriandoVariaveis.dll
