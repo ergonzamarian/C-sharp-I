@@ -1,5 +1,5 @@
 # C-sharp-I
 
-> Status do Projeto : Projeto em Desenvolvimnto
+> Status do Projeto : Finalizado
 
 C# Explorando a linguagem
